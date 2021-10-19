@@ -1,0 +1,23 @@
+body {
+  background-size: cover;
+}
+
+.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  color: blue;
+}
+
+.note {
+  font-size: 15px;
+  color: black;
+}
+
+
+
+canvas {
+  border: 5px dotted white;
+  border-radius: 70px;
+  margin: 70px;
+}
